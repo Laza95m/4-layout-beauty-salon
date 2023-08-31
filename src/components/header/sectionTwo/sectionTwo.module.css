@@ -1,0 +1,15 @@
+.section {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
+
+.mouse {
+  content: url(../../../img/mouse.svg);
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 700;
+}
